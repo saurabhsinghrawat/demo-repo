@@ -1,4 +1,4 @@
 # demo-repo
-My first github repository😁
+My first Git repository😁
 <br>
 Name: Saurabh Singh Rawat
